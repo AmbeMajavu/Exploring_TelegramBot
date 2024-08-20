@@ -15,6 +15,7 @@ This bot is on a mission to make language learning as thrilling as a high-speed 
    Here are some commands you can use
    /interact - chat with your language "boach"
    /start - Explore learning activities (It consists of three activities!)
+   
         1. Practice vocabulary
         2. Translate text - You can choose from 4 languages!
         3. Analyze sentence - in this task you will have to type a sentence using nlp LWAB will break it down for you
