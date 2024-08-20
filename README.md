@@ -30,7 +30,7 @@ it only has translations for 6 words namely; hello, thank you, goodbye, apple, c
 but you will not get an error when you don't enter those words you will come across this
 "Oooops, I couldn't find translations for the following words: {missing_words_str}
             "Got another word/phrase for me? 🧐"
-## I have also included a support button, which leads start to my personal telegram in case you face issues 
+## I have also included a support button, which leads to my telegram account in case you face issues 
 
   
    
