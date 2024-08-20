@@ -1,0 +1,19 @@
+apple:a sweet, round fruit
+run:to move swiftly
+hello:a greeting
+thank you:an expression of gratitude
+goodbye:a farewell phrase when leaving
+book:a set of bound written pages
+computer:an electronic device for data processing
+music:sounds combined to create harmony
+water:a clear liquid essential for life
+sun:the star providing light and heat
+tree:a tall plant with branches and leaves
+house:a building where people live
+school:a place for learning
+friend:someone you share a bond with
+food:a substance consumed for nourishment
+love:a deep feeling of affection
+work:activity done to achieve a goal
+happy:feeling pleasure or contentment
+sad:feeling sorrow or unhappiness
