@@ -11,9 +11,10 @@ This bot is on a mission to make language learning as thrilling as a high-speed 
 2. Download Language Model: download the appropriate language model(spaCy) with python -m spacy download 
    en_core_web_sm
 3. Clone my repo and run the bot, ensure that the are no errors in the console in which the bot is running.
-4. Bot commands:
-   Here are some commands you can use
+4. Bot commands: Here are some commands you can use
+   
    /interact - chat with your language "boach"
+
    /start - Explore learning activities (It consists of three activities!)
    
         1. Practice vocabulary
@@ -21,6 +22,7 @@ This bot is on a mission to make language learning as thrilling as a high-speed 
         3. Analyze sentence - in this task you will have to type a sentence using nlp LWAB will break it down for you
 
    /cancel - End the current session
+   
    /help - Show you list of commands
    
 ## The Limitatins of my chatbot are:
