@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# IDE/editor specific files
+.vscode/
+.idea/
