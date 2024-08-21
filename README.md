@@ -1,4 +1,7 @@
-# LearnWithA_Bot 
+## Telegram Bot Info:
+username: @beautysched_bot
+name: LearnWithA_Bot
+
 Ready to level up your language game? Say hello to your new quirky, bilingual bestie!  Whether you're in the mood for a friendly chat or want to flex those vocab muscles, this bot's got you covered.
 
 ## So which problem is my language buddy bot addressing ?
